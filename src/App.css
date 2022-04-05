@@ -23,6 +23,21 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.main-card{
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+ .card-content{
+margin-right: 2rem;
+} 
+
+.card-footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .App-link {
   color: #61dafb;
